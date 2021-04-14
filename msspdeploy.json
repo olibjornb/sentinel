@@ -31,12 +31,24 @@
             "defaultValue": [
                 {
                     "principalId": "e14b61a0-3c11-470f-a4b9-bd841036517d",
-                    "roleDefinitionId": ["3e150937-b8fe-4cfb-8069-0eaf05ecd056","87a39d53-fc1b-424a-814c-f7e04687dc9e"],
+                    "roleDefinitionId": "3e150937-b8fe-4cfb-8069-0eaf05ecd056",
                     "principalIdDisplayName": "sec-az-sub-5195-CloudOps-Lighthouse-SecurityAnalyst"
                 },
+                
+                {
+                    "principalId": "e14b61a0-3c11-470f-a4b9-bd841036517d",
+                    "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e",
+                    "principalIdDisplayName": "sec-az-sub-5195-CloudOps-Lighthouse-SecurityAnalyst"
+                },
+
                 {
                     "principalId": "06fa804e-6051-413f-a55c-6f4897c43e2e",
-                    "roleDefinitionId": ["ab8e14d6-4a74-4a29-9ba8-549422addade","87a39d53-fc1b-424a-814c-f7e04687dc9e"],
+                    "roleDefinitionId": "ab8e14d6-4a74-4a29-9ba8-549422addade",
+                    "principalIdDisplayName": "sec-az-sub-5195-CloudOps-Lighthouse-SecurityEngineers"
+                },
+                  {
+                    "principalId": "06fa804e-6051-413f-a55c-6f4897c43e2e",
+                    "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e",
                     "principalIdDisplayName": "sec-az-sub-5195-CloudOps-Lighthouse-SecurityEngineers"
                 }
 
