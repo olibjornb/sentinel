@@ -52,13 +52,13 @@
                     "principalIdDisplayName": "sec-az-sub-5195-CloudOps-Lighthouse-SecurityEngineers"
                 },
                  {
-                    "principalId": "c0a4f5f2-2ff8-4c8b-83e2-c82bea61bd65",
+                    "principalId": "205b5c27-869b-4764-9bed-b4fdcffd8bad",
                     "roleDefinitionId": "ab8e14d6-4a74-4a29-9ba8-549422addade",
                     "principalIdDisplayName": "Lighthouse Onboarding"
                 },
                 
                 {
-                    "principalId": "c0a4f5f2-2ff8-4c8b-83e2-c82bea61bd65",
+                    "principalId": "205b5c27-869b-4764-9bed-b4fdcffd8bad",
                     "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e",
                     "principalIdDisplayName": "Lighthouse Onboarding"
                 }
